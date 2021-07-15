@@ -5,7 +5,7 @@ This is part of the Restuarant Project in [The Odin Project's](https://www.theod
 
 - [Live Demo Link]()
 
-![screenshot](resturant_page.png)
+![screenshot]()
 
 
 ## Built With
