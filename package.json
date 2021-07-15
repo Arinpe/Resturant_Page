@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GraceOyiza/Resturant_page.git"
+    "url": "git+https://github.com/Arinpe/Resturant_page.git"
   },
   "keywords": [
     "[]"
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GraceOyiza/Resturant_page/issues"
+    "url": "https://github.com/Arinpe/Resturant_page/issues"
   },
-  "homepage": "https://github.com/GraceOyiza/Resturant_page#readme",
+  "homepage": "https://github.com/Arinpe/Resturant_page#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.18.0",
     "@typescript-eslint/parser": "^4.18.0",
