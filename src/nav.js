@@ -22,7 +22,7 @@ export default () => {
 
   const navname = document.createElement('h1');
   navname.classList.add('nav-name');
-  navname.innerText = 'TEES';
+  navname.innerText = 'TEE';
 
   const navLinks = createNavLinks();
   nav.appendChild(navname);
