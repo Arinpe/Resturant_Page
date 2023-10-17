@@ -1,0 +1,51 @@
+@import "~bootstrap/scss/bootstrap";
+
+a {
+  list-style: none;
+  color: black;
+}
+
+img {
+  object-fit: cover;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: whitesmoke;
+}
+
+.homepage {
+  max-height: 91vh;
+  object-fit: cover;
+}
+
+li {
+  list-style: none;
+}
+
+.nav-item {
+  display: flex;
+  margin-right: 3rem;
+}
+
+.nav-items {
+  padding-left: 10px;
+  font-weight: bold;
+  padding-top: 8px;
+  font-size: 16px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-name {
+  margin-left: 3rem;
+}
+
+.font-weight {
+  font-weight: bolder;
+  font-size: 20px;
+  color: whitesmoke;
+}
